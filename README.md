@@ -1,8 +1,4 @@
-.env
-*.avm
-*.prover
-*.verifier
-outputs/<!-- # ⭕ Tic-Tac-Toe -->
+<!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
