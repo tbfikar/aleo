@@ -1,2 +1,5 @@
-# aleo
-my first commit
+.env
+*.avm
+*.prover
+*.verifier
+outputs/
