@@ -1,0 +1,7 @@
+
+    ternary r107 r106.r3.c3 r139.r3.c3 into r153;
+    cast r151 r152 r153 into r154 as Row;
+    cast r146 r150 r154 into r155 as Board;
+    ternary r107 1u8 r142 into r156;
+    output r155 as Board.private;
+    output r156 as u8.private;
